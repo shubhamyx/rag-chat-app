@@ -1,0 +1,27 @@
+Artificial Intelligence (AI) is the simulation of human intelligence processes by computer systems.
+These processes include learning, reasoning, and self-correction.
+AI was founded as an academic discipline in 1956 by John McCarthy.
+
+Machine Learning is a subset of AI that allows systems to learn from data without being explicitly programmed.
+Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Neural networks are inspired by the structure of the human brain.
+
+Natural Language Processing (NLP) is a branch of AI that deals with the interaction between computers and human language.
+NLP is used in applications like chatbots, translation, and sentiment analysis.
+
+Computer Vision is another branch of AI that enables machines to interpret and understand visual information.
+It is used in facial recognition, self-driving cars, and medical imaging.
+
+Reinforcement Learning is a type of Machine Learning where an agent learns by interacting with its environment.
+The agent receives rewards for correct actions and penalties for incorrect ones.
+
+GPT (Generative Pre-trained Transformer) is a type of large language model developed by OpenAI.
+It can generate human-like text based on a given prompt.
+
+AI is being used in healthcare to diagnose diseases, in finance to detect fraud, and in education to personalize learning.
+Ethical concerns around AI include bias, privacy, job displacement, and lack of transparency.
+
+The future of AI includes advancements in AGI (Artificial General Intelligence).
+AGI refers to AI systems that can perform any intellectual task that a human can do.
+
+Shubham is the legend 
